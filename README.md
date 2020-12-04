@@ -1,8 +1,6 @@
 # Mongoid::Enum
 
-[![Build
-Status](https://travis-ci.org/thetron/mongoid-enum.png)](https://travis-ci.org/thetron/mongoid-enum)
-[![Code Climate](https://codeclimate.com/github/thetron/mongoid-enum.png)](https://codeclimate.com/github/thetron/mongoid-enum)
+[![Build Status](https://github.com/choilive/mongoid-enum/workflows/Ruby/badge.svg)](https://github.com/choilive/mongoid-enum/actions?query=workflow%3ARuby)
 
 Heavily inspired by [DHH's
 ActiveRecord::Enum](https://github.com/rails/rails/commit/db41eb8a6ea88b854bf5cd11070ea4245e1639c5), this little library is

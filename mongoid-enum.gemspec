@@ -25,5 +25,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake"
   spec.add_development_dependency "rspec", "~> 3.1"
   spec.add_development_dependency "guard-rspec", "~> 4.6.2"
-  spec.add_development_dependency "mongoid-rspec", "~> 3.0"
+  spec.add_development_dependency "mongoid-rspec", "~> 4.0"
 end
