@@ -24,7 +24,7 @@ jobs:
 
     services:
       mongodb:
-        image: mongodb:4.4
+        image: mongo:4.4
         ports:
           - 27015:27015
     steps:
