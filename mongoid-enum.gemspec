@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_runtime_dependency "mongoid", ">= 5.0", "< 8.0"
-  spec.add_runtime_dependency "bigdecimal", "~> 1.4"
+  spec.add_runtime_dependency "bigdecimal", "~> 2.0"
 
   spec.add_development_dependency "bundler", "~> 2.1"
   spec.add_development_dependency "rake"
