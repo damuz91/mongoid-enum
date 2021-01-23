@@ -20,7 +20,7 @@ jobs:
 
     strategy:
       matrix:
-        ruby-version: [2.7.0, 2.6.0]
+        ruby-version: [2.7.0, 2.6.0, 3.0.0]
 
     services:
       mongodb:
