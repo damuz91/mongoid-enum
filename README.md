@@ -10,13 +10,14 @@ world a happier place at the same time.
 A single line will get you fields, accessors, validations and scopes,
 and a few other bits-and-bobs.
 
+Note: Since nobody cared I have forked from @choilive and just updated the mongoid max version to 8.0.2. So you can use with `gem 'mongoid', '~> 8.0.2'`
 
 # Installation
 
 Add this to your Gemfile:
 
 ```ruby
-gem "mongoid-enum"
+gem "mongoid-enum", :git => 'https://github.com/damuz91/mongoid-enum.git'
 ```
 
 And then run `bundle install`.
